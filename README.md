@@ -27,7 +27,7 @@ We refer to periodical cicadas as being on a 13-year or 17-year cycle.  But this
 This map from the USDA should provide and impression of the variability in the time and location of Brood Emergences.<sup>2</sup>
 
 <p align="center">
-<img src="/assets/USDA_periodical_brood_map.jpg" alt="USDA map" width="500"/>
+<img src="/assets/USDA_periodical_brood_map.jpg" alt="USDA map" width="600"/>
 </p>
 
 The analysis will focus only on the months of May and June for all relevant years.  Cicada emergence is responsive to soil temperatures and weather, and the correct conditions are typically reached in May in the United States.  Given the above-ground lifespan of periodical cicadas is limited to a few weeks, looking at the months of May and June allows for flexibility in season and individuality, while covering the duration of their collective 6-8 weeks above ground.<sup>3</sup>  Stragglers who emerge outside this range are not likely to be in high enough numbers to make a significant impact to human life.   
