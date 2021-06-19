@@ -21,13 +21,14 @@ This project will examine data reflective of localized human activity during per
 
 ## Biological Context for the Data
 
-####Emergence Time and Location:
+###Emergence Time and Location:
+
 We refer to periodical cicadas as being on a 13-year or 17-year cycle.  But this cycle is very location-specific!  In fact, nearly every year there is a population (“Brood”) emerging somewhere on their unique 13 or 17-year lifecycle.  This is what allows me to analyze the impact to human behavior: I will look at city or county-level data for the years prior to, during, and following a periodical cicada emergence.  
 This map from the USDA should provide and impression of the variability in the time and location of Brood Emergences.2
 ![USDA brood map](https://github.com/megan2/cicadas/blob/main/assets/USDA_periodical_brood_map.jpg)
 The analysis will focus only on the months of May and June for all relevant years.  Cicada emergence is responsive to soil temperatures and weather, and the correct conditions are typically reached in May in the United States.  Given the above-ground lifespan of periodical cicadas is limited to a few weeks, looking at the months of May and June allows for flexibility in season and individuality, while covering the duration of their collective 6-8 weeks above ground.3  Stragglers who emerge outside this range are not likely to be in high enough numbers to make a significant impact to human life.   
 
-####The Sound:
+###The Sound:
 First-hand accounts of periodical cicadas indicate that the noise they make is unparalleled, and that it's also likely to have an unwelcome physical encounter.  The noise, called 'chorusing' - and less kindly called 'shrieking' - reaches 90+ decibels, which is "like standing next to a food blender spinning at top speed or a gas-powered lawn mower."3  Having this as a constant background soundtrack seems ripe for a potentially distracting, disruptive and grating couple of weeks (once a cicada has emerged from the ground, the remainder of their lifespan is typically two weeks).  
 
 
