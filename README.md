@@ -49,7 +49,7 @@ Leaning into citizen science and utilizing publicly available technologies will 
 
 
 ## Technologies Used
- #### Data Cleaning
+ #### Data Cleaning and Manipulation
   - Python (Pandas)
   - Excel
   - Jupyter notebooks
